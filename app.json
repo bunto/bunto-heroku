@@ -1,0 +1,7 @@
+{
+  "name": "Bunto on Heroku",
+  "description": "Bunto on Heroku",
+  "repository": "https://github.com/bunto/bunto-heroku",
+  "website": "https://bunto-heroku.herokuapp.com/",
+  "keywords": ["bunto", "static"]
+}
