@@ -1,6 +1,7 @@
 {
   "name": "Bunto on Heroku",
   "description": "Bunto on Heroku",
+  "logo": "https://raw.githubusercontent.com/bunto/bunto-heroku/master/bunto-logo.png",
   "repository": "https://github.com/bunto/bunto-heroku",
   "website": "https://bunto-heroku.herokuapp.com/",
   "keywords": ["bunto", "static"]
