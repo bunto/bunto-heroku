@@ -10,7 +10,7 @@ Add a `Gemfile` in the Bunto project root containing:
 
     source 'https://rubygems.org'
     ruby '2.1.2'
-    gem 'bunto'
+    gem 'bunto', '>= 1.0'
     gem 'kramdown'
     gem 'rack-bunto'
     gem 'rake'
